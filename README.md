@@ -1,98 +1,198 @@
-# Aryan Ubale
+<!--
+  ARYAN UBALE — GITHUB PROFILE README
+  Replace the project URLs with your actual repository links.
+-->
 
-### Full Stack Developer | Founder @ Frontend Arena | Software Engineering Enthusiast
+<div align="center">
 
-Mumbai, India · [GitHub](https://github.com/AryanUbale7) · [LinkedIn](https://www.linkedin.com/in/aryan-ubale/) · [Email](mailto:aryanubale318@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090b,50:312e81,100:0891b2&text=ARYAN%20UBALE&fontColor=ffffff&fontSize=55&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+
+### Building software. Engineering solutions. Creating impact.
+
+<a href="https://github.com/AryanUbale7">
+<img src="https://img.shields.io/badge/GitHub-AryanUbale7-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/aryan-ubale/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:aryanubale318@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=AryanUbale7&style=flat-square&color=6366f1&label=PROFILE+VIEWS"/>
+
+</div>
 
 ---
 
 ## About Me
 
-I'm **Aryan Ubale**, a Full Stack Developer and Computer Engineering (Information Technology) undergraduate based in Mumbai, India.
+```yaml
+name: Aryan Ubale
+location: Mumbai, India
+education: BE Information Technology
+role: Full Stack Developer
+organization: Founder, Frontend Arena
 
-I enjoy building scalable applications, backend systems, developer tools, and engineering solutions that solve real-world problems. My interests span full-stack development, software architecture, automation, and AI-driven applications.
+interests:
+  - Full Stack Engineering
+  - Backend & System Architecture
+  - Developer Infrastructure
+  - Automated Code Evaluation
+  - AI & Computer Vision
 
-I am the **Founder of Frontend Arena**, a developer community focused on empowering students through hackathons, collaborative learning, and practical software development.
+currently_building:
+  - Developer Tools
+  - Scalable Web Applications
+  - Automated Evaluation Systems
+```
 
-One of my major engineering projects is **FAIE (Frontend Arena Intelligent Evaluation Engine)** — a deterministic automated evaluation platform that has evaluated project submissions from **1,000+ hackathon participants**. Its core scoring engine operates without AI-based scoring and combines results from static analysis, testing, performance, accessibility, and security tools.
+I'm a Full Stack Developer interested in building reliable applications, backend infrastructure, and developer-focused engineering tools.
 
-I have also worked on computer vision applications, including a real-time road hazard detection system using YOLOv8.
+As the Founder of **Frontend Arena**, I work on developer community initiatives, hackathons, and platforms that encourage students to build real-world software.
 
-I believe in engineering reliable systems, writing maintainable code, and continuously improving through building and experimentation.
+I enjoy taking ideas from architecture to implementation, with a focus on clean code, performance, automation, and maintainability.
 
-## Engineering Focus
+---
 
-- Full Stack & Backend Development
-- REST API Design and System Architecture
-- Automated Code Analysis & Evaluation Systems
-- Developer Tools and Engineering Automation
-- Database Design and Backend Infrastructure
-- AI, Machine Learning & Computer Vision
+## Featured Engineering Projects
 
-## Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### FAIE — Frontend Arena Intelligent Evaluation Engine
-A deterministic automated hackathon evaluation platform that evaluates submissions across code quality, accessibility, responsiveness, security, scalability, and problem statement alignment.
+### FAIE
+**Frontend Arena Intelligent Evaluation Engine**
 
-**Highlights:** 1,000+ participant submissions evaluated · Automated audit pipeline · Deterministic scoring engine · Structured reports and leaderboards.
+A deterministic automated evaluation platform for hackathon submissions.
+
+- 1,000+ participant submissions evaluated
+- Non-AI core scoring architecture
+- Static code analysis and automated testing
+- Security and performance audits
+- Automated reports and leaderboards
+
+**Stack:** TypeScript, Node.js, Docker, Redis, BullMQ, Playwright
+
+</td>
+<td width="50%" valign="top">
 
 ### Frontend Arena
-A developer community and hackathon platform focused on practical learning, open-source contributions, and competitive building experiences.
+
+A developer community and hackathon ecosystem.
+
+- Technical hackathons
+- Open-source initiatives
+- Developer collaboration
+- Automated project evaluation
+- Community-driven learning
+
+**Focus:** Developer Ecosystem & Engineering
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### RoadGuard ADAS
-A computer vision-based road hazard detection project using YOLOv8, PyTorch, and OpenCV, focused on identifying road hazards in real time.
 
-## Technical Skills
+Computer vision-based road hazard detection system.
 
-**Languages**
+- Real-time hazard detection
+- YOLOv8-based object detection
+- Computer vision pipeline
+- Performance-focused processing
 
-TypeScript · JavaScript · Python · C++ · SQL
+**Stack:** Python, PyTorch, YOLOv8, OpenCV
 
-**Frontend Development**
+</td>
+<td width="50%" valign="top">
 
-React.js · Next.js · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Three.js · Vite
+### Full Stack Applications
 
-**Backend Development**
+Building practical web applications and backend systems.
 
-Node.js · Express.js · FastAPI · REST APIs
+- REST API development
+- Authentication and authorization
+- Database-driven applications
+- Responsive interfaces
+- Deployment and integrations
 
-**Databases & ORM**
+**Stack:** React, Next.js, Node.js, FastAPI, SQL
 
-PostgreSQL · MySQL · MongoDB · Prisma
-
-**Tools & Infrastructure**
-
-Git · GitHub · Docker · Redis · BullMQ · Vercel · Netlify · PowerShell
-
-**AI & Computer Vision**
-
-PyTorch · YOLOv8 · OpenCV
-
-**Engineering Practices**
-
-API Development · Static Analysis · Automated Testing · CI/CD · System Design · Database Management
-
-## Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/aryan-ubale/
-- **GitHub:** https://github.com/AryanUbale7
-- **Instagram:** https://instagram.com/aryan.exploree
-- **Email:** aryanubale318@gmail.com
-
-I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities in software engineering.
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Statistics
+## Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryanUbale7&show_icons=true&theme=transparent&hide_border=true)
+<div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AryanUbale7&theme=transparent&hide_border=true)
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&theme=dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanUbale7&layout=compact&theme=transparent&hide_border=true)
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,threejs&theme=dark" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis,prisma&theme=dark" />
+
+### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,linux,powershell&theme=dark" />
+
+### AI & Computer Vision
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Building useful things. Solving real problems. Improving with every iteration.</i>
-</p>
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AryanUbale7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanUbale7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=AryanUbale7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryanUbale7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+Interested in software engineering, developer tools, open-source projects, and meaningful collaborations.
+
+<a href="https://www.linkedin.com/in/aryan-ubale/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://instagram.com/aryan.exploree">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+<a href="mailto:aryanubale318@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<br/><br/>
+
+### "Building useful things. Solving real problems. Improving every day."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:312e81,100:0891b2&height=110&section=footer"/>
+
+</div>
