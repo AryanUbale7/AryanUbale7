@@ -1,51 +1,34 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:080C18,45:142B52,100:087EAA&text=ARYAN%20UBALE&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=15&descAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:EFF6FF,50:DBEAFE,100:E0E7FF&text=ARYAN%20UBALE&fontColor=1E3A8A&fontSize=55&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=14&descColor=334155&descAlignY=64&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Founder+%40+Frontend+Arena;Building+Developer+Tools;Engineering+Scalable+Systems"/>
 
 <br/>
 
-<a href="https://github.com/AryanUbale7">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/aryan-ubale/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:aryanubale318@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=AryanUbale7&style=flat-square&color=087EAA&label=PROFILE+VIEWS"/>
+<a href="https://github.com/AryanUbale7"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aryan-ubale/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:aryanubale318@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
-
-**Engineering software that solves real-world problems.**
+**Building useful products through thoughtful engineering.**
 
 </div>
 
 ---
 
-## 01 / Introduction
+## About Me
 
-```text
-ARYAN UBALE
-────────────────────────────────────────────
-Role          Full Stack Developer
-Education     BE Information Technology
-Location      Mumbai, India
-Organization  Founder @ Frontend Arena
-Focus         Software Engineering & Developer Tools
-```
+I'm **Aryan Ubale**, a Full Stack Developer and Information Technology undergraduate based in Mumbai, India.
 
-I'm a Full Stack Developer passionate about building scalable applications, backend infrastructure, and developer-focused engineering products.
+I build scalable web applications, backend systems, APIs, and developer-focused tools. I enjoy working across the software development lifecycle, from architecture and implementation to testing and deployment.
 
-As the Founder of **Frontend Arena**, I work on developer communities, hackathons, and engineering initiatives that encourage practical innovation.
+As the Founder of **Frontend Arena**, I lead initiatives around hackathons, developer collaboration, and practical software engineering.
 
-My work focuses on combining strong engineering fundamentals with practical implementation — from designing APIs and backend systems to building automated evaluation platforms.
-
-Currently exploring software architecture, developer infrastructure, automation, and computer vision.
+My work includes **FAIE (Frontend Arena Intelligent Evaluation Engine)**, a deterministic automated evaluation platform that has evaluated project submissions from **1,000+ hackathon participants**. Its core scoring system operates without AI-based scoring, using automated engineering tools and predefined evaluation rules.
 
 ---
 
-## 02 / Engineering Highlights
+## Engineering Highlights
 
 <div align="center">
 
@@ -54,126 +37,96 @@ Currently exploring software architecture, developer infrastructure, automation,
 <td align="center" width="33%">
 <h2>1,000+</h2>
 <strong>Participant Submissions</strong>
-<br/>Evaluated through FAIE
+<br/>Evaluated using FAIE
 </td>
 <td align="center" width="33%">
 <h2>FAIE</h2>
-<strong>Evaluation Engine</strong>
-<br/>Deterministic scoring
+<strong>Deterministic Engine</strong>
+<br/>Non-AI core scoring
 </td>
 <td align="center" width="33%">
 <h2>Founder</h2>
 <strong>Frontend Arena</strong>
-<br/>Developer ecosystem
+<br/>Developer Community
 </td>
 </tr>
 </table>
 
 </div>
 
----
+## Featured Projects
 
-## 03 / Featured Engineering
+### FAIE — Frontend Arena Intelligent Evaluation Engine
 
-### 01. FAIE — Frontend Arena Intelligent Evaluation Engine
+An automated hackathon evaluation platform built around deterministic scoring and tool-driven audits.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:087EAA,100:243B67"/>
+- Code quality and static analysis
+- Accessibility and responsiveness
+- Performance and security audits
+- Automated evaluation orchestration
+- Structured reports and leaderboards
 
-**Automated evaluation infrastructure for hackathons.**
+`TypeScript` `Node.js` `Docker` `Redis` `BullMQ` `Playwright` `Lighthouse`
 
-FAIE is a deterministic evaluation engine developed to assess hackathon submissions consistently and objectively.
+### Frontend Arena
 
-**Key capabilities**
-- Automated code quality and static analysis.
-- Accessibility and responsiveness audits.
-- Performance and security evaluation.
-- Deterministic scoring without AI-based core scoring.
-- Automated report generation and leaderboard updates.
-- Asynchronous evaluation orchestration.
+A developer community and hackathon ecosystem focused on collaborative learning, open-source contributions, and building practical projects.
 
-**Technology**
+### RoadGuard ADAS
 
-`TypeScript` `Node.js` `Docker` `Redis` `BullMQ` `Playwright` `Lighthouse` `ESLint`
-
-### 02. Frontend Arena
-
-**A developer community and hackathon ecosystem.**
-
-Building platforms and initiatives that help developers learn, collaborate, compete, and create real-world projects.
-
-`Community` `Hackathons` `Open Source` `Developer Ecosystem`
-
-### 03. RoadGuard ADAS
-
-**Computer vision-based road hazard detection.**
-
-A real-time road hazard detection project using YOLOv8, PyTorch, and OpenCV, focused on identifying potential road hazards.
-
-`Python` `YOLOv8` `PyTorch` `OpenCV`
+A computer vision-based road hazard detection system using YOLOv8, PyTorch, and OpenCV.
 
 ---
 
-## 04 / Technical Arsenal
+## Technology Stack
 
 <div align="center">
 
-**LANGUAGES**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&theme=light"/>
 
-**FRONTEND ENGINEERING**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,threejs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,threejs&theme=light"/>
 
-**BACKEND & DATABASES**
+**Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis,prisma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,redis,prisma&theme=light"/>
 
-**TOOLS & INFRASTRUCTURE**
+**Tools & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,netlify,linux&theme=light"/>
 
-**AI & COMPUTER VISION**
+**AI & Computer Vision**
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=light"/>
 
 </div>
 
 ---
 
-## 05 / GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AryanUbale7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AryanUbale7&show_icons=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanUbale7&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryanUbale7&layout=compact&theme=default&hide_border=true&title_color=2563EB"/>
 
 <br/>
 
-<img width="65%" src="https://nirzak-streak-stats.vercel.app/?user=AryanUbale7&theme=tokyonight&hide_border=true"/>
+<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=AryanUbale7&theme=default&hide_border=true&ring=2563EB&fire=6366F1"/>
 
 </div>
 
----
-
-## 06 / Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AryanUbale7&bg_color=0d1117&color=58a6ff&line=168aad&point=ffffff&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AryanUbale7&bg_color=ffffff&color=334155&line=2563eb&point=6366f1&area=true&hide_border=true"/>
 
 </div>
-
----
-
-## 07 / Beyond Code
-
-- Building developer-focused products.
-- Exploring scalable system architecture.
-- Learning advanced backend engineering.
-- Exploring AI and computer vision.
-- Contributing to developer communities.
 
 ---
 
@@ -181,18 +134,16 @@ A real-time road hazard detection project using YOLOv8, PyTorch, and OpenCV, foc
 
 ### LET'S BUILD SOMETHING MEANINGFUL.
 
-Open to connecting with engineers, founders, and developers working on interesting problems.
+Open to connecting with developers, engineers, and people building impactful products.
 
-<a href="https://www.linkedin.com/in/aryan-ubale/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-087EAA?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/aryan-ubale/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
-**ARYAN UBALE · MUMBAI, INDIA**
+**Aryan Ubale · Mumbai, India**
 
 <sub>Build with purpose. Engineer with precision.</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:080C18,50:142B52,100:087EAA"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:EFF6FF,50:DBEAFE,100:E0E7FF"/>
 
 </div>
